@@ -1,2 +1,3 @@
-for i in range(1, 6):
-    print(i)
+h = "Hello World"
+print(h)
+print(h[::-1])
